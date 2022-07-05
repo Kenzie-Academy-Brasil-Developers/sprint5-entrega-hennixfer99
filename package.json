@@ -8,11 +8,18 @@
   },
   "devDependencies": {
     "@types/jest": "^28.1.3",
+    "@types/node": "^18.0.1",
     "@types/supertest": "^2.0.12",
     "jest": "27.5.1",
     "sqlite3": "^5.0.8",
     "supertest": "^6.2.3",
     "ts-jest": "^28.0.5",
-    "typescript": "^4.6.4"
+    "typescript": "^4.7.4"
+  },
+  "repository": "git@github.com:Kenzie-Academy-Brasil-Developers/sprint5-entrega-hennixfer99.git",
+  "author": "Henrique Ferreira Mendes <Henriferreira99@gmail.com>",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
   }
 }
